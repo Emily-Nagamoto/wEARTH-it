@@ -26,3 +26,8 @@ This is our first hackathon, and all members of the team had little to no coding
 
 What’s next for wEARTH it
 We are looking to further customize the recommendations by taking other input values into consideration, such as location, season, and other factors. We also hope to implement features including the leaderboard and challenges to incentivize environmentally-conscious behaviors.
+
+Credit: 
+camck on Scratch https://scratch.mit.edu/projects/130413068/#player
+Forkphorus
+MIT App Inventer
